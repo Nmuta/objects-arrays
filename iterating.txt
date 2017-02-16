@@ -1,0 +1,5 @@
+Question When might we want to iterate between two numbers?
+
+You might want to iterate between two numbers so you can print the range of
+numbers between them. From there you could find all odd/even numbers or those divisible
+by three or five, etc.

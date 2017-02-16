@@ -1,0 +1,6 @@
+4) Question: What would happen if I specify myArray[100]?
+A new element with the index 100 would be created. Everything between myArray[4] and myArray[100] would return "undefined".
+
+5) Question: What would happen if I specify myArray[-1]?
+I didn't think this was possible, but it did run when I created myArray[-1] and set it to a value.
+When I then returned myArray, it returned the positive indexed values, then at the end it had ''"-1": 0' It made the negative index become a string.

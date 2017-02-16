@@ -1,0 +1,8 @@
+var randomArray = ["hi", 3, null, [1, 2, 3], true, "bye"];
+1) Question: What are the types of elements in randomArray above?
+  "hi" - string
+  3 - number
+  null - null
+  [1, 2, 3] - array
+  true - Boolean
+  "bye" - string
