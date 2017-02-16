@@ -1,0 +1,4 @@
+Arrays
+
+Q1
+string, number, null, array, boolean, string
