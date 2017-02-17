@@ -1,0 +1,4 @@
+Other Loops
+
+Second E2
+A while loop is more suitable in this case because there is not a specified endpoint in mind.

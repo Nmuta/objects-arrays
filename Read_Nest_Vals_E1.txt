@@ -1,0 +1,12 @@
+Reading Nested Values
+
+E1
+
+1
+users[0].email;
+
+2
+users[2].title;
+
+3
+users[0].user-id;

@@ -1,0 +1,4 @@
+Iterating over an array
+
+Q1
+We might want to iterate between two numbers when we want to display a list of numbers.

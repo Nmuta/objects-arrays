@@ -1,0 +1,4 @@
+Updating key-value pairs
+
+Q1
+person.favoriteColors[1] = "pink";

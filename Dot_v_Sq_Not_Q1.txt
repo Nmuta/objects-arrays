@@ -1,0 +1,4 @@
+Dot notation vs. square bracket notation (Access)
+
+Q1
+person.favoriteColors[1];

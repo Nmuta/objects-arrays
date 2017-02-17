@@ -1,0 +1,4 @@
+Reading Nested Values
+
+E2
+graphObject.expressions.list[2].text;

@@ -1,0 +1,4 @@
+Beware of infinite loops
+
+Q1
+It is problematic because the lack of definition of a stopping point in the while loop will cause the loop to run indefinitely.
